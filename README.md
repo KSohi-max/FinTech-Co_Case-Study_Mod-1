@@ -34,6 +34,8 @@ Competitive advantage of Firmex are the people and its non-leadership driven [cu
 
 But recently Firmex has also taken the initiative to augment their products with improvements and new [releases](https://support.firmex.com/hc/en-us/articles/360001535873?utm_source%3Dhomepage%26utm_medium%3Dlink%26utm_campaign%3Dproduct_updates%26_ga%3D2.117304262.196435269.1668977768-1746532754.1668977768#new-improved-0-1). Personally, I like the transparency provided in simple updates by Firmex. But as is always the case, there is room for improvements as noted on [Capterra reviews](https://www.capterra.ca/reviews/131320/firmex-virtual-data-rooms).
 
+<p><a href="https://www.firmex.com/resources/blog/introducing-the-new-firmex-ui/?wvideo=xell1lwtf2"><img src="https://embedwistia-a.akamaihd.net/deliveries/ab1cf198ff9e72df446bcf09838c2261.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=545454e0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://www.firmex.com/resources/blog/introducing-the-new-firmex-ui/?wvideo=xell1lwtf2">Introducing the new Firmex UI | Firmex Resources</a></p>
+
 The Virtual Data Rooms is hosted on Amazon Web Services (AWS) with data centres in US, Canada and Germany. In addition, there are other monitoring, marketing, messaging, feedback and cusotmer support solutions [stack](https://www.firmex.com/sub-processors/) used for managing the VDRs.  One thing missing from the stack is the security structure but perhaps that is an intentional ommission. 
 
 ## Landscape
@@ -47,7 +49,11 @@ Firmex covers several domains of the financial industry as the Vitual Data Rooms
 
 As the product solution is extended further, it is likely that Firmex can encompass other domains.  It isn't clear from the research conducted if Firmex applies Smart Contract solutions based on Blockchain directly in their solution but they do recommend use of [Extranets](https://www.firmex.com/resources/blog/three-tips-running-successful-legal-client-extranet/).
 
-Virtual Data Rooms market has a reported market size of [USD $1.58 Billion in 2019 and is expected to grow to USD $4.12 Billion by 2027 with a CAGR of 14.7%](https://www.grandviewresearch.com/industry-analysis/virtual-data-room-market). Features and market opportunities for this product in the coming years include:
+Virtual Data Rooms market has a reported market size of [USD $1.58 Billion in 2019 and is expected to grow to USD $4.12 Billion by 2027 with a CAGR of 14.7%](https://www.grandviewresearch.com/industry-analysis/virtual-data-room-market). 
+
+![Tech Image](https://www.grandviewresearch.com/static/img/research/north-america-virtual-data-room-market.png)
+
+Features and market opportunities for this product in the coming years include:
 - AI and Non-AI Powered solutions
 - Consulting, Integration, Training, Support
 - Cloud based expansion as well as on-premise solutions
