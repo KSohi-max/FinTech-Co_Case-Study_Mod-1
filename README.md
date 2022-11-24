@@ -1,6 +1,6 @@
 # FinTech - Case Study
 
-# FIRMEX
+# [FIRMEX](https://www.firmex.com/)
 
 ## Overview and Origin
 
