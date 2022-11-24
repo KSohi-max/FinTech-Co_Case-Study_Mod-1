@@ -91,7 +91,7 @@ My general recommendation for this product would be to expand the application in
 
 Firmex was an organic startup in a market that reamins lucrative even in recessionary times. There is still significant opportunity to serve the market with the Virtual Data Rooms by enhancing the technology, proliferating larger platforms to grow customer base, and further customize the solution to client needs.
 
-### Sources
+## Sources
 
 - Sales Talent Agency:  https://www.salestalentagency.com/blog/great-sales-leaders-know-firmex/
 - Financial Post:  https://financialpost.com/entrepreneur/fp-startups/why-startups-should-consider-turning-away-the-big-bucks-of-venture-capitalists
